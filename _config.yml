@@ -261,7 +261,7 @@ permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
-  input: Kramdown
+  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
