@@ -9,4 +9,5 @@ The following is a list
 - What even is a list?
 
 Now to test if LaTeX is working:
+
 $$\nabla\cdot\vec{B}=0$$
