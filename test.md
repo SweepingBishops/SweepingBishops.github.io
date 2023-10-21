@@ -13,5 +13,5 @@ Now to test if LaTeX is working:
 
 $$\nabla\cdot\vec{B}=0$$
 
-And to test inline $\vert 1 \rangle = 1$
+And to test inline $\vert 1 \rangle = 1$  
 Maybe this'll work? \\(\vert 1 \rangle = 1\\)
