@@ -19,6 +19,6 @@ Maybe this'll work? \\(\vert 1 \rangle = 1\\)
 $$
 \begin{align}
     x^2+1&=0\\\\
-    \impliesx&=\pm i
+    \implies x&=\pm i
 \end{align}
 $$
