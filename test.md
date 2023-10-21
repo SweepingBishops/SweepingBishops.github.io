@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-subtitle: Just to be _Sure_
+subtitle: Just to be *Sure*
 ---
 
 The following is a list
