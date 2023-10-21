@@ -11,4 +11,8 @@ The following is a list
 
 Now to test if LaTeX is working:
 
-$$\nabla\cdot\vec{B}=0$$
+<div>
+  $$\nabla\cdot\vec{B}=0$$
+</div>
+
+And to test inline $\vert 1 \rangle = 1$
