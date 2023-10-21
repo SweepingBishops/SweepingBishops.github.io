@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Test
-subtitle: Just to be *Sure*
+subtitle: Just to be Sure
+mathjax: true
 ---
 
 The following is a list
 - Though is it really?
-- What even is a list?
+- What even *is a list*?
 
 Now to test if LaTeX is working:
 
