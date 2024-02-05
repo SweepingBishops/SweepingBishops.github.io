@@ -22,8 +22,8 @@ author: Roshan Mathew Philip
 navbar-links:
   Notes: "https://drive.google.com/drive/folders/1RqwOBBJjDTVOTLzuEuMcoOXxy3fMSwF0?usp=sharing"
   Blog: "blogs/index"
-  Test: "test"
-  About Me: "aboutme"
+  # Test: "test"
+  # About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -259,7 +259,7 @@ timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+  #paginate: 5
 
 kramdown:
   input: GFM
@@ -292,7 +292,7 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
