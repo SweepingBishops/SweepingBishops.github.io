@@ -46,4 +46,4 @@ both of them have the same 'center of mass' and 'standard distribution' of pixel
 To identify rotations, we take the angle between the images which correspond to the lowest
 chamfer distance after translation and scaling.
 
-To get a more thorough idea, read my [report](/assests/pdf/image-metric.pdf) and feel free to contact me.
+To get a more thorough idea, read my [report](/assets/pdf/image-metric.pdf) and feel free to contact me.
