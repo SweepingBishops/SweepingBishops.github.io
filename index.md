@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-My name is Roshan Mathew Philip. I'm a second year undergraduate student at [NISER](https://niser.ac.in).
+My name is Roshan Mathew Philip. I'm a third year undergraduate student at [NISER](https://niser.ac.in).
 My current fields of interest are Mathematical Physics and Quantum Foundations.
 
 I also play chess, and the piano, and DnD.\\
